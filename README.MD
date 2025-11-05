@@ -20,6 +20,4 @@ Discover the 'MacDonald's Sales 2022 Dashboard,' a project that offers a compreh
  
 Feel Free to Explore and Experiment, I encourage you to explore the project, expriment with different data analysis approaches, and contribute to improving the analysis, visualizations, and insights. Your contributions and innovative ideas can be pivotal in advancing this project's effectiveness and generating valuable outcomes
 
-## Contact
 
-For feedback, suggestions, or collaborations, feel free to connect with me : Contact Me - Gokul Raja - gokulraja840@gmail.com
